@@ -1,6 +1,6 @@
 # A Max-relevance-min-divergence Criterion for Data Discretization with Applications on Naive Bayes
 `MRmD` is a supervised discretization framework that can balance discrimination power and generalization ability.
-![]([https://github.com/shellpower96/Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier/blob/main/framework.png](https://github.com/shellpower96/MRmD/blob/main/frame.png))
+![](https://github.com/shellpower96/MRmD/blob/main/frame.png)
 
 ## Implementation
 This is a source code of `MRmD` for a naive Bayes classifier using MATLAB. The version of MATLAB should be `>=2019b`.
