@@ -13,10 +13,13 @@ The detailed descriptions of all datasets used in the paper can be found at http
 
 If you use this code, please cite:
 ```
-@article{wang2022max,
-  title={A Max-relevance-min-divergence Criterion for Data Discretization with Applications on Naive Bayes},
+@article{wang2024max,
+  title={A max-relevance-min-divergence criterion for data discretization with applications on Naive Bayes},
   author={Wang, Shihe and Ren, Jianfeng and Bai, Ruibin and Yao, Yuan and Jiang, Xudong},
-  journal={arXiv preprint arXiv:2209.10095},
-  year={2022}
+  journal={Pattern Recognition},
+  volume={149},
+  pages={110236},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
